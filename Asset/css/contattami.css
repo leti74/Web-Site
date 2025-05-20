@@ -1,0 +1,51 @@
+.sec-contattami{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 0 30px;
+    align-items: center;
+}
+
+.sec-contattami input, textarea {
+    border-radius: 7px;
+    border-color: aqua;
+    background-color: black;
+    width: 100%;
+    color: white;
+    margin-bottom: 7px;
+    padding-left: 10px;
+}
+.sec-contattami button{
+text-align: center;
+background-color: aqua;
+border: none;
+width: 80px;
+border-radius: 10px;
+padding: 10px;
+box-shadow: 0 0 25px aqua;
+margin-top: 20px;
+
+}
+
+@media only screen and (min-width: 872px)  {
+    .sec-contattami{
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        padding: 0 30px;
+        width: 50%;
+        align-items: center;
+        
+    }
+
+    .contattami{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 200px 20px;
+    }
+
+    .contattami h2 {
+       padding: 30px;
+    }
+}

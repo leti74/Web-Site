@@ -1,0 +1,23 @@
+.sec-futuro{
+    text-align: center;
+    padding: 50px;
+}
+
+.futuro {
+    background-color: rgb(23, 23, 23);
+}
+
+
+@media only screen and (min-width: 872px)  {
+    .sec-futuro{
+       
+        text-align: justify;
+        padding: 70px 50px;
+       
+    }  
+
+    .futuro{
+        padding: 100px;
+        font-size: 17px;
+    }
+}

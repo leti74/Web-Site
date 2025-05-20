@@ -1,0 +1,89 @@
+
+
+.sec-abilita{
+    text-align: center;
+    padding: 30px 30px;
+}
+
+.elenco-abilita {
+    
+    background-color: aqua;
+    margin: 0 25px;
+    border-radius: 40px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+.elenco-abilita p{
+   
+    background-color: rgba(50, 50, 50, 0.766);
+    border-radius: 50px;
+    color: white;
+    padding: 5px;
+    font-size: 12px;
+    font-weight: 600;
+    padding-left:15px;
+    display: flex;
+    width: auto;
+    justify-content: space-between;
+        
+}
+
+span {
+    font-weight: normal;
+}
+
+
+.s60{
+    margin-right: 130px;
+}
+
+.s90{
+    margin-right: 20px;
+}
+
+.s80{
+    margin-right: 60px;
+}
+
+.s70{
+    margin-right: 100px;
+}
+
+
+@media only screen and (min-width: 872px)  {
+   .universita{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-right: 15px;
+    
+   }
+   .sec-abilita{
+    text-align: start;
+    width: 40%;
+    font-size: 17px;
+    padding-bottom: 20px;
+    
+}
+
+.elenco-abilita {
+    
+    width: 400px;
+
+}
+
+.start2impact{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-right: 15px;
+}
+ 
+
+.abilita{
+    
+}
+ }
