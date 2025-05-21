@@ -36,9 +36,9 @@ img {
     padding: 60px;
 }
 
- p{
+ .chi-sono p{
    color: rgb(148, 148, 148);
-   
+   margin-bottom: 25px;
 }
 
 
