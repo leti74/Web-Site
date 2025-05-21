@@ -8,7 +8,7 @@
 .elenco-abilita {
     
     background-color: aqua;
-    margin: 0 25px;
+    margin: 0px 25px;
     border-radius: 40px;
     padding: 20px;
     margin-bottom: 50px;
@@ -28,6 +28,9 @@
         
 }
 
+.start2impact .elenco-abilita{
+    margin-bottom: 150px;
+}
 span {
     font-weight: normal;
 }
@@ -71,6 +74,7 @@ span {
 .elenco-abilita {
     
     width: 400px;
+   
 
 }
 
