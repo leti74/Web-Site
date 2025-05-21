@@ -5,6 +5,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: black;
+    font-family: "DM Sans", sans-serif !important;
 }
 
 
@@ -62,6 +63,7 @@ p  {
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     background-color: rgba(0, 255, 255, 0.484);
+    font-family: "DM Sans", sans-serif !important;
    
 }
  .sidebar h1 {
