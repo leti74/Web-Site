@@ -23,7 +23,7 @@ img {
     text-decoration: none;
     color: aqua;
     box-shadow:0 0 20px rgba(0, 255, 255, 0.588) ;
-    padding: 7px;
+    padding: 9px 13px;
     border-radius: 20px;
     margin-top: 20px;
 }
